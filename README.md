@@ -43,18 +43,18 @@ At the core of this project is the user-friendly and secure registration process
 10. `python manage.py runserver`
 
 ## Frontend
-- HTML
-- CSS
-- Bootstrap
-- JavaScript
+- 💻 HTML
+- 🎨 CSS
+- 🅱️ Bootstrap
+- 🚀 JavaScript
 
 ## Backend
-- Django
+- 🌐 Django
 
 ## Development Tool
-- VS Code
+- 🧑‍💻 VS Code
 
-## Prerequisites
+##  🔧 Prerequisites
 
 1. **Visual Studio Code:**
    - Visit the official website of Visual Studio Code ([code.visualstudio.com](https://code.visualstudio.com/)).
