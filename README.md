@@ -17,50 +17,58 @@
 - [Authors](#authors)
 - [Acknowledgments](#acknowledgement)
 
-## 🧐 About <a name = "about"></a>
-### User Registration System (SignUp-LogIn-Web)
+# User Registration System (SignUp-LogIn-Web)
 
-Welcome to User Registration and Login System project, a dynamic Python-based web application leveraging the Django framework. This project focuses on creating a comprehensive user authentication system, allowing users to seamlessly register and log in while incorporating the concept of a superuser for enhanced administrative control.
+## 🧐 About <a name="about"></a>
+
+### Welcome to the User Registration and Login System project, a dynamic Python-based web application leveraging the Django framework. 
+
+This project focuses on creating a comprehensive user authentication system, allowing users to seamlessly register and log in while incorporating the concept of a superuser for enhanced administrative control.
 
 At the core of this project is the user-friendly and secure registration process. Users can easily register by providing their details, creating a personalized account within the system. The use of Django ensures that this process is not only intuitive but also robust in handling user data securely.
 
-The technologies are Django on the backend meets the elegance of HTML, CSS, Bootstrap, and JavaScript on the frontend. Developed using Visual Studio Code, this project seamlessly integrates the strengths of both worlds to deliver a user-friendly and visually appealing authentication experience.
+## 🏁 Getting Started <a name="getting_started"></a>
 
-## 🏁 Getting Started <a name = "getting_started"></a>
+### Commands Throughout the Project:
 
-### Commands Throuout the project:
-1.	cd C:\Users\SHUBHAM JADHAV\OneDrive\Desktop\Django
-2. 	my_venv\Scripts\activate.bat
-3. 	cd User Registration project
-4. 	django-admin startproject registration
-5. 	cd registration
-6. 	python manage.py startapp app1
-7. 	python manage.py makemigrations
-8. 	python manage.py migrate
-9. 	python manage.py createsuperuser
-10. python manage.py runserver
+1. `cd C:\Users\SHUBHAM JADHAV\OneDrive\Desktop\Django`
+2. `my_venv\Scripts\activate.bat`
+3. `cd User Registration project`
+4. `django-admin startproject registration`
+5. `cd registration`
+6. `python manage.py startapp app1`
+7. `python manage.py makemigrations`
+8. `python manage.py migrate`
+9. `python manage.py createsuperuser`
+10. `python manage.py runserver`
 
 ## Frontend
-HTML, CSS, Bootstrap, and JavaScript
+- HTML
+- CSS
+- Bootstrap
+- JavaScript
 
 ## Backend
-Django
+- Django
 
 ## Development Tool
-VS Code
+- VS Code
 
 ## Prerequisites
-1. VS Code:
-- Visit the official website of Visual Studio Code (code.visualstudio.com).
-- Click on the "Download" button to download the installer for your operating system (Windows, macOS, or Linux).
-- Once the download is complete, run the installer.
-- Follow the on-screen instructions to complete the installation process.
-- After installation, you can launch VS Code from your desktop or start menu.
 
-## ✍️ Author <a name = "author"></a>
+1. **Visual Studio Code:**
+   - Visit the official website of Visual Studio Code ([code.visualstudio.com](https://code.visualstudio.com/)).
+   - Click on the "Download" button to download the installer for your operating system (Windows, macOS, or Linux).
+   - Once the download is complete, run the installer.
+   - Follow the on-screen instructions to complete the installation process.
+   - After installation, you can launch VS Code from your desktop or start menu.
+
+## ✍️ Author <a name="author"></a>
+
 - [@Shubham Jadhav](https://github.com/shubhamj-26)
 
-## 🎉 Acknowledgements <a name = "acknowledgement"></a>
+## 🎉 Acknowledgements <a name="acknowledgement"></a>
+
 Welcome to the User Registration and Login System project, a dynamic Python-based web application powered by the Django framework! Our aim is to provide you with a comprehensive user authentication system that not only allows seamless registration and login but also incorporates the concept of a superuser for enhanced administrative control.
 
 With a focus on user-friendliness and security, our project ensures a smooth and secure registration process. By providing your details, you can easily create a personalized account within the system. Thanks to the robustness of Django, your data will be handled securely, giving you peace of mind.
@@ -68,3 +76,4 @@ With a focus on user-friendliness and security, our project ensures a smooth and
 Combining the power of Django on the backend with the elegance of HTML, CSS, Bootstrap, and JavaScript on the frontend, our project creates a harmonious fusion of technologies. Developed using Visual Studio Code, we've seamlessly integrated the strengths of both worlds to deliver a user-friendly and visually appealing experience.
 
 Whether you're a user looking to register and log in effortlessly or an administrator seeking enhanced control, this User Registration and Login System has got you covered. So, get ready to embark on a journey of efficient and secure user authentication.
+
